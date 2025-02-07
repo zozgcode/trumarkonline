@@ -133,7 +133,7 @@ export const mockAccounts: Account[] = [
       email: 'isabellagurdan8058@gmail.com',
       createdOn: '2/7/2025', // m/d/y
       username: 'Isabella8058',
-      password: 'Vaseline27# '
+      password: 'Vaseline27#'
     },
     bank_details: {
       account_type: 'Checking',
